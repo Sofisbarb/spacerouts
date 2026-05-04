@@ -6,7 +6,7 @@
 
 # SpaceRouts VPN
 
-**Fast and secure VPN for bypassing internet restrictions and white lists**
+**Fast and reliable VPN service for restrictive regions**
 
 [![Website](https://img.shields.io/badge/Website-spacerouts.com-00f0ff?style=for-the-badge)](https://spacerouts.com)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/spacerouts_bot)
@@ -18,16 +18,15 @@
 
 ## About
 
-[SpaceRouts VPN](https://spacerouts.com) is a fast and reliable VPN service designed to bypass internet restrictions, white lists, and DPI blocking. Built on the cutting-edge **VLESS Reality** protocol for maximum speed and undetectability.
+[SpaceRouts VPN](https://spacerouts.com) is a fast and reliable VPN service designed for users who need stable internet access in restrictive regions. Modern infrastructure, high speeds, multi-platform support.
 
 ## Features
 
-- **VLESS Reality Protocol** — latest generation protocol, undetectable by DPI
-- **Speed up to 500 Mbps** — no throttling, unlimited bandwidth
-- **Bypass White Lists** — works even when only approved sites are accessible
-- **All Platforms** — iOS, Android, Windows, macOS
-- **Servers in Europe** — low latency, high uptime
-- **No Logs** — strict no-logging policy
+- **High speed** — up to 500 Mbps, unlimited bandwidth
+- **Stable connection** — works where most commercial VPNs fail
+- **All platforms** — iOS, Android, Windows, macOS
+- **European servers** — low latency, high uptime
+- **No logs** — strict no-logging policy
 
 ## Unblock Popular Services
 
@@ -42,12 +41,12 @@
 | Discord | Unblocked |
 | Spotify | Unblocked |
 
-## How It Works
+## How to Connect
 
 1. **Choose a plan** at [spacerouts.com](https://spacerouts.com) or via [@spacerouts_bot](https://t.me/spacerouts_bot)
-2. **Download the app** — Hiddify (Android/Windows/Mac) or Streisand (iOS)
-3. **Paste your VPN key** into the app
-4. **Connect** and enjoy unrestricted internet
+2. **Get your VPN key** — sent to your email and Telegram instantly
+3. **Follow the setup guide** at [spacerouts.com/guide.html](https://spacerouts.com/guide.html)
+4. **Connect** and enjoy stable internet
 
 ## Pricing
 
